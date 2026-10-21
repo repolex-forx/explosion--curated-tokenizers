@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "curated-tokenizers",
+  "versions": [
+    {
+      "commit": "e11413cfb56ddf1c42cc6c003d1e1f3b6a3e7993",
+      "tag": "",
+      "parsed_at": "2026-10-21T03:23:02.914661+00:00"
+    }
+  ]
+}
